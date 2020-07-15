@@ -59,6 +59,14 @@ nav { background: rgba(70, 130, 180, 0.87); }
   border-radius: 4px;
 }
 
+
+main ul li a {
+  font-size: 0.8rem;
+  margin-right: 12px;
+  padding: 5px;
+  color: #333 !important;
+}
+
 /* ABOUT */
 #about h3 { line-height: 26px; }
 #about p { line-height: 22px; }
